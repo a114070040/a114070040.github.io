@@ -39,3 +39,7 @@
         max-width: calc(100vw - 17rem);
     }
 }
+html,
+body {
+    overflow-x: hidden;
+}
