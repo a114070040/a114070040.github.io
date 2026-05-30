@@ -25,3 +25,11 @@
     width: 100vw;
     min-height: 100vh;
 }
+.resume-section {
+    padding-right: 0 !important;
+}
+
+.resume-section-content {
+    max-width: 100% !important;
+    padding-right: 0 !important;
+}
