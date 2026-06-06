@@ -17,6 +17,7 @@
 }
 .centercenter{
    text-align: center;
+
 }
 a.link{
     color: rgb(214, 169, 22);
@@ -85,4 +86,8 @@ section#callme{
 }
 .tabletop{
     margin-top: 50px;
+}
+.centercenterz{
+   text-align: center;
+   font-size: 28px;
 }
